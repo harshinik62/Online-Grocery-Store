@@ -10,3 +10,5 @@ This project database is created for an Online Grocery Store. This database cont
 5)	cart
 6)	order
 7)	card
+
+https://github.com/harshinik62/Online-Grocery-Store/issues/1#issue-469981679
